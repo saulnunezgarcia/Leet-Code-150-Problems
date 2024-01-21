@@ -1,0 +1,15 @@
+C:\Users\sury_\Documents\LeetCode\Array String\H-Index\bin\Debug\net7.0\H-Index.exe
+C:\Users\sury_\Documents\LeetCode\Array String\H-Index\bin\Debug\net7.0\H-Index.deps.json
+C:\Users\sury_\Documents\LeetCode\Array String\H-Index\bin\Debug\net7.0\H-Index.runtimeconfig.json
+C:\Users\sury_\Documents\LeetCode\Array String\H-Index\bin\Debug\net7.0\H-Index.dll
+C:\Users\sury_\Documents\LeetCode\Array String\H-Index\bin\Debug\net7.0\H-Index.pdb
+C:\Users\sury_\Documents\LeetCode\Array String\H-Index\obj\Debug\net7.0\H-Index.csproj.AssemblyReference.cache
+C:\Users\sury_\Documents\LeetCode\Array String\H-Index\obj\Debug\net7.0\H-Index.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sury_\Documents\LeetCode\Array String\H-Index\obj\Debug\net7.0\H-Index.AssemblyInfoInputs.cache
+C:\Users\sury_\Documents\LeetCode\Array String\H-Index\obj\Debug\net7.0\H-Index.AssemblyInfo.cs
+C:\Users\sury_\Documents\LeetCode\Array String\H-Index\obj\Debug\net7.0\H-Index.csproj.CoreCompileInputs.cache
+C:\Users\sury_\Documents\LeetCode\Array String\H-Index\obj\Debug\net7.0\H-Index.dll
+C:\Users\sury_\Documents\LeetCode\Array String\H-Index\obj\Debug\net7.0\refint\H-Index.dll
+C:\Users\sury_\Documents\LeetCode\Array String\H-Index\obj\Debug\net7.0\H-Index.pdb
+C:\Users\sury_\Documents\LeetCode\Array String\H-Index\obj\Debug\net7.0\H-Index.genruntimeconfig.cache
+C:\Users\sury_\Documents\LeetCode\Array String\H-Index\obj\Debug\net7.0\ref\H-Index.dll
