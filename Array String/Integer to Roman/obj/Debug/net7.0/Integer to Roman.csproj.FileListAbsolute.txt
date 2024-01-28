@@ -1,0 +1,15 @@
+C:\Users\sury_\Documents\LeetCode\Array String\Integer to Roman\bin\Debug\net7.0\Integer to Roman.exe
+C:\Users\sury_\Documents\LeetCode\Array String\Integer to Roman\bin\Debug\net7.0\Integer to Roman.deps.json
+C:\Users\sury_\Documents\LeetCode\Array String\Integer to Roman\bin\Debug\net7.0\Integer to Roman.runtimeconfig.json
+C:\Users\sury_\Documents\LeetCode\Array String\Integer to Roman\bin\Debug\net7.0\Integer to Roman.dll
+C:\Users\sury_\Documents\LeetCode\Array String\Integer to Roman\bin\Debug\net7.0\Integer to Roman.pdb
+C:\Users\sury_\Documents\LeetCode\Array String\Integer to Roman\obj\Debug\net7.0\Integer to Roman.csproj.AssemblyReference.cache
+C:\Users\sury_\Documents\LeetCode\Array String\Integer to Roman\obj\Debug\net7.0\Integer to Roman.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sury_\Documents\LeetCode\Array String\Integer to Roman\obj\Debug\net7.0\Integer to Roman.AssemblyInfoInputs.cache
+C:\Users\sury_\Documents\LeetCode\Array String\Integer to Roman\obj\Debug\net7.0\Integer to Roman.AssemblyInfo.cs
+C:\Users\sury_\Documents\LeetCode\Array String\Integer to Roman\obj\Debug\net7.0\Integer to Roman.csproj.CoreCompileInputs.cache
+C:\Users\sury_\Documents\LeetCode\Array String\Integer to Roman\obj\Debug\net7.0\Integer to Roman.dll
+C:\Users\sury_\Documents\LeetCode\Array String\Integer to Roman\obj\Debug\net7.0\refint\Integer to Roman.dll
+C:\Users\sury_\Documents\LeetCode\Array String\Integer to Roman\obj\Debug\net7.0\Integer to Roman.pdb
+C:\Users\sury_\Documents\LeetCode\Array String\Integer to Roman\obj\Debug\net7.0\Integer to Roman.genruntimeconfig.cache
+C:\Users\sury_\Documents\LeetCode\Array String\Integer to Roman\obj\Debug\net7.0\ref\Integer to Roman.dll
