@@ -4,7 +4,7 @@
     {
         static void Main(string[] args)
         {
-            int[] ratings = { 1, 0, 2};
+            int[] ratings = { 1, 2, 2 };
             Console.WriteLine(Candy(ratings));
         }
 
@@ -13,23 +13,25 @@
         {
             int[] candies = Enumerable.Repeat(1, ratings.Length).ToArray();
 
-            for (int i = 1; i < ratings.Length; i++)
-            {
-                if (ratings[i] > ratings[i - 1])
-                {
+            
 
-                    candies[i] = candies[i - 1] + 1;
+
+            for (int i = 0; i < candies.Length-1; i++)
+            {
+                if (ratings[i+1] > ratings[i])
+                {
+                    candies[i + 1] = candies[i] + 1;
                 }
             }
 
-            for (int i = ratings.Length - 2; i >= 0; i--)
+            for (int i = candies.Length - 2; i >= 0; i--)
             {
                 if (ratings[i] > ratings[i + 1])
                 {
                     candies[i] = Math.Max(candies[i], candies[i + 1] + 1);
                 }
-
             }
+
 
             return candies.Sum();
         }
