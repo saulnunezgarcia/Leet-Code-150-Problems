@@ -1,0 +1,15 @@
+C:\Users\sury_\Documents\LeetCode\Array String\Candy\bin\Debug\net7.0\Candy.exe
+C:\Users\sury_\Documents\LeetCode\Array String\Candy\bin\Debug\net7.0\Candy.deps.json
+C:\Users\sury_\Documents\LeetCode\Array String\Candy\bin\Debug\net7.0\Candy.runtimeconfig.json
+C:\Users\sury_\Documents\LeetCode\Array String\Candy\bin\Debug\net7.0\Candy.dll
+C:\Users\sury_\Documents\LeetCode\Array String\Candy\bin\Debug\net7.0\Candy.pdb
+C:\Users\sury_\Documents\LeetCode\Array String\Candy\obj\Debug\net7.0\Candy.csproj.AssemblyReference.cache
+C:\Users\sury_\Documents\LeetCode\Array String\Candy\obj\Debug\net7.0\Candy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sury_\Documents\LeetCode\Array String\Candy\obj\Debug\net7.0\Candy.AssemblyInfoInputs.cache
+C:\Users\sury_\Documents\LeetCode\Array String\Candy\obj\Debug\net7.0\Candy.AssemblyInfo.cs
+C:\Users\sury_\Documents\LeetCode\Array String\Candy\obj\Debug\net7.0\Candy.csproj.CoreCompileInputs.cache
+C:\Users\sury_\Documents\LeetCode\Array String\Candy\obj\Debug\net7.0\Candy.dll
+C:\Users\sury_\Documents\LeetCode\Array String\Candy\obj\Debug\net7.0\refint\Candy.dll
+C:\Users\sury_\Documents\LeetCode\Array String\Candy\obj\Debug\net7.0\Candy.pdb
+C:\Users\sury_\Documents\LeetCode\Array String\Candy\obj\Debug\net7.0\Candy.genruntimeconfig.cache
+C:\Users\sury_\Documents\LeetCode\Array String\Candy\obj\Debug\net7.0\ref\Candy.dll
